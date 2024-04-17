@@ -1,0 +1,9 @@
+Primer Nombre: Roberto
+Segundo Nombre: Carlos
+Primer Apellido: Le¢n
+Segundo Apellido: Gramajo
+Edad: 20
+Tipo de sexo: Masculino
+El salario de la persona es: Q3600
+Horario de Trabajo: Lunes, Miercoles y Viernes de 07:00 a.m. a 19:00 p.m., Martes y Jueves de 07:00 a.m. a 18:00 p.m.
+
